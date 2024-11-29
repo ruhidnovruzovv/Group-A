@@ -33,3 +33,22 @@
     border-radius: 15px;
     background-color: white;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contact{
+    height: 400px;
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+.contact-title{
+    display: flex;
+}
+.contact-us{
+    display: flex;
+    text-align: start;
+}
