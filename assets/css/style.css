@@ -52,3 +52,11 @@
     display: flex;
     text-align: start;
 }
+
+footer {
+    background-color: rgb(46, 45, 45);
+  }
+  .Website a {
+    color: white;
+  }
+  
